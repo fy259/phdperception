@@ -1,0 +1,2301 @@
+#
+# Results on Tuesday September 22 2020 22:53:01 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15
+# Design number was non-random = 0
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1600815182,572bb06a0517907c8cdea66c95735679,Form,2,0,intro,NULL,name,违反
+1600815182,572bb06a0517907c8cdea66c95735679,Form,2,0,intro,NULL,_REACTION_TIME_,2564
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1600815182,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,3,0,q2,NULL,test2.mp3
+1600815182,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,3,0,q2,NULL,NULL,OK,NULL,1220
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1600815182,572bb06a0517907c8cdea66c95735679,Question,3,1,q2,NULL,你听见声音了吗？,Yes,1,1500
+#
+# Results on Tuesday September 22 2020 22:57:41 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15
+# Design number was non-random = 1
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1600815461,572bb06a0517907c8cdea66c95735679,Form,2,0,intro,NULL,name,史蒂芬
+1600815461,572bb06a0517907c8cdea66c95735679,Form,2,0,intro,NULL,_REACTION_TIME_,2022
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1600815461,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,3,0,q1,NULL,test2.mp3
+1600815461,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,3,0,q1,NULL,NULL,OK,NULL,791
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+1600815461,572bb06a0517907c8cdea66c95735679,Question,3,1,q1,NULL,你听见声音了吗？,Yes,1,873
+1600815461,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,4,0,q2,NULL,test2.mp3
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1600815461,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,4,0,q2,NULL,NULL,OK,NULL,1135
+1600815461,572bb06a0517907c8cdea66c95735679,Question,4,1,q2,NULL,小张为什么很生气?,小明用了他的电脑。,NULL,1241
+#
+# Results on Tuesday September 22 2020 23:04:31 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15
+# Design number was non-random = 2
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1600815872,572bb06a0517907c8cdea66c95735679,Form,2,0,intro,NULL,name,第三方
+1600815872,572bb06a0517907c8cdea66c95735679,Form,2,0,intro,NULL,_REACTION_TIME_,2922
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1600815872,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,3,0,q1,NULL,test2.mp3
+1600815872,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,3,0,q1,NULL,NULL,OK,NULL,879
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+1600815872,572bb06a0517907c8cdea66c95735679,Question,3,1,q1,NULL,你听见声音了吗？,No,0,996
+1600815872,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,4,0,q2,NULL,test2.mp3
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1600815872,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,4,0,q2,NULL,NULL,OK,NULL,956
+1600815872,572bb06a0517907c8cdea66c95735679,Question,4,1,q2,NULL,哪一个回答更自然？,第一个回答,NULL,1331
+#
+# Results on Tuesday September 22 2020 23:09:11 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0
+# Design number was non-random = 3
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1600816151,b05b2b539f0d523061b96fd5efd61ebe,Form,2,0,intro,NULL,name,w
+1600816151,b05b2b539f0d523061b96fd5efd61ebe,Form,2,0,intro,NULL,_REACTION_TIME_,3606
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1600816151,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,3,0,q1,NULL,test2.mp3
+1600816151,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,3,0,q1,NULL,NULL,OK,NULL,1359
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+1600816151,b05b2b539f0d523061b96fd5efd61ebe,Question,3,1,q1,NULL,你听见声音了吗？,Yes,1,1562
+1600816151,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,4,0,q2,NULL,test2.mp3
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1600816151,b05b2b539f0d523061b96fd5efd61ebe,AcceptabilityJudgment,4,0,q2,NULL,NULL,OK,NULL,899
+1600816151,b05b2b539f0d523061b96fd5efd61ebe,Question,4,1,q2,NULL,哪一个回答更自然？,第一个回答,NULL,1991
+#
+# Results on Tuesday September 22 2020 23:10:59 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15
+# Design number was non-random = 4
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1600816259,572bb06a0517907c8cdea66c95735679,Form,2,0,intro,NULL,name,sdf
+1600816259,572bb06a0517907c8cdea66c95735679,Form,2,0,intro,NULL,_REACTION_TIME_,1700
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1600816259,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,3,0,q1,NULL,test2.mp3
+1600816259,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,3,0,q1,NULL,NULL,OK,NULL,981
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+1600816259,572bb06a0517907c8cdea66c95735679,Question,3,1,q1,NULL,你听见声音了吗？,Yes,1,1409
+1600816259,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,4,0,q2,NULL,dianr.mp3
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1600816259,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,4,0,q2,NULL,NULL,OK,NULL,1089
+1600816259,572bb06a0517907c8cdea66c95735679,Question,4,1,q2,NULL,哪一个回答更自然？,第一个回答,NULL,2406
+#
+# Results on Tuesday September 22 2020 23:14:20 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15
+# Design number was non-random = 5
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1600816461,572bb06a0517907c8cdea66c95735679,Form,1,0,intro,NULL,name,s'd'f
+1600816461,572bb06a0517907c8cdea66c95735679,Form,1,0,intro,NULL,_REACTION_TIME_,1865
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1600816461,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,2,0,q1,NULL,test2.mp3
+1600816461,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,2,0,q1,NULL,NULL,OK,NULL,604
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+1600816461,572bb06a0517907c8cdea66c95735679,Question,2,1,q1,NULL,你听见声音了吗？,听到了,1,1530
+1600816461,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,3,0,q2,NULL,dianr.mp3
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1600816461,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,3,0,q2,NULL,NULL,OK,NULL,4105
+1600816461,572bb06a0517907c8cdea66c95735679,Question,3,1,q2,NULL,哪一个回答更自然？,小王拿了花给小美,NULL,2974
+#
+# Results on Tuesday September 22 2020 23:20:29 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15
+# Design number was non-random = 6
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1600816829,572bb06a0517907c8cdea66c95735679,Form,1,0,intro,NULL,name,sdf
+1600816829,572bb06a0517907c8cdea66c95735679,Form,1,0,intro,NULL,_REACTION_TIME_,1421
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1600816829,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,2,0,q1,NULL,test2.mp3
+1600816829,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,2,0,q1,NULL,NULL,OK,NULL,1147
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+1600816829,572bb06a0517907c8cdea66c95735679,Question,2,1,q1,NULL,你听见声音了吗？,听到了,NULL,2195
+1600816829,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,3,0,q2,NULL,dianr.mp3
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1600816829,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,3,0,q2,NULL,NULL,OK,NULL,822
+1600816829,572bb06a0517907c8cdea66c95735679,Question,3,1,q2,NULL,哪一个回答更自然？,小王拿了花给小美,NULL,1374
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1600816829,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,4,0,q3,NULL,goumai.mp3
+1600816829,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,4,0,q3,NULL,NULL,OK,NULL,861
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1600816829,572bb06a0517907c8cdea66c95735679,Question,4,1,q3,NULL,刚才播放的句子，你觉得听起来自然吗？,自然,NULL,2466
+#
+# Results on Tuesday September 22 2020 23:25:05 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15
+# Design number was non-random = 7
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1600817106,572bb06a0517907c8cdea66c95735679,Form,1,0,intro,NULL,name,sf
+1600817106,572bb06a0517907c8cdea66c95735679,Form,1,0,intro,NULL,_REACTION_TIME_,1866
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1600817106,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,2,0,q1,NULL,ceshi.mp3
+1600817106,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,2,0,q1,NULL,NULL,OK,NULL,3432
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+1600817106,572bb06a0517907c8cdea66c95735679,Question,2,1,q1,NULL,你听见声音了吗？,听到了,NULL,2526
+1600817106,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,3,0,q2,NULL,dianr.mp3
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1600817106,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,3,0,q2,NULL,NULL,OK,NULL,858
+1600817106,572bb06a0517907c8cdea66c95735679,Question,3,1,q2,NULL,哪一个回答更自然？,小王拿了花给小美,NULL,981
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1600817106,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,4,0,q3,NULL,goumai.mp3
+1600817106,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,4,0,q3,NULL,NULL,OK,NULL,961
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1600817106,572bb06a0517907c8cdea66c95735679,Question,4,1,q3,NULL,刚才播放的句子，你觉得听起来自然吗？,自然,NULL,1111
+#
+# Results on Tuesday September 22 2020 23:52:05 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15
+# Design number was non-random = 8
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1600818725,572bb06a0517907c8cdea66c95735679,Form,1,0,intro,NULL,name,sdf
+1600818725,572bb06a0517907c8cdea66c95735679,Form,1,0,intro,NULL,_REACTION_TIME_,2968
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1600818725,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,2,0,q1,NULL,summersplash.mp3
+1600818725,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,2,0,q1,NULL,NULL,OK,NULL,2400
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+1600818725,572bb06a0517907c8cdea66c95735679,Question,2,1,q1,NULL,你听见声音了吗？,听到了,NULL,1113
+1600818725,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,3,0,q2,NULL,dianr.mp3
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1600818725,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,3,0,q2,NULL,NULL,OK,NULL,775
+1600818725,572bb06a0517907c8cdea66c95735679,Question,3,1,q2,NULL,哪一个回答更自然？,小王拿了花给小美,NULL,1051
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1600818725,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,4,0,q3,NULL,goumai.mp3
+1600818725,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,4,0,q3,NULL,NULL,OK,NULL,845
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1600818725,572bb06a0517907c8cdea66c95735679,Question,4,1,q3,NULL,刚才播放的句子，你觉得听起来自然吗？,自然,NULL,1546
+#
+# Results on Tuesday September 22 2020 23:52:52 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15
+# Design number was non-random = 9
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1600818772,572bb06a0517907c8cdea66c95735679,Form,1,0,intro,NULL,name,kj
+1600818772,572bb06a0517907c8cdea66c95735679,Form,1,0,intro,NULL,_REACTION_TIME_,2151
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1600818772,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,2,0,q1,NULL,summersplash.mp3
+1600818772,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,2,0,q1,NULL,NULL,OK,NULL,1540
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+1600818772,572bb06a0517907c8cdea66c95735679,Question,2,1,q1,NULL,你听见声音了吗？,听到了,NULL,2235
+1600818772,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,3,0,q2,NULL,dianr.mp3
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1600818772,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,3,0,q2,NULL,NULL,OK,NULL,817
+1600818772,572bb06a0517907c8cdea66c95735679,Question,3,1,q2,NULL,哪一个回答更自然？,小王拿了花给小美,NULL,721
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1600818772,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,4,0,q3,NULL,goumai.mp3
+1600818772,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,4,0,q3,NULL,NULL,OK,NULL,973
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1600818772,572bb06a0517907c8cdea66c95735679,Question,4,1,q3,NULL,刚才播放的句子，你觉得听起来自然吗？,自然,NULL,2077
+#
+# Results on Tuesday September 22 2020 23:56:55 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15
+# Design number was non-random = 10
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1600819016,572bb06a0517907c8cdea66c95735679,Form,1,0,intro,NULL,name,科技部
+1600819016,572bb06a0517907c8cdea66c95735679,Form,1,0,intro,NULL,_REACTION_TIME_,6101
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1600819016,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,2,0,q1,NULL,summersplash.mp3
+1600819016,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,2,0,q1,NULL,NULL,OK,NULL,1813
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+1600819016,572bb06a0517907c8cdea66c95735679,Question,2,1,q1,NULL,你听见声音了吗？,听到了,NULL,1569
+1600819016,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,3,0,q2,NULL,dianr.mp3
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1600819016,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,3,0,q2,NULL,NULL,OK,NULL,2445
+1600819016,572bb06a0517907c8cdea66c95735679,Question,3,1,q2,NULL,哪一个回答更自然？,小王拿了花给小美,NULL,4839
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1600819016,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,4,0,q3,NULL,goumai.mp3
+1600819016,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,4,0,q3,NULL,NULL,OK,NULL,1248
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1600819016,572bb06a0517907c8cdea66c95735679,Question,4,1,q3,NULL,刚才播放的句子，你觉得听起来自然吗？,自然,NULL,1326
+#
+# Results on Wednesday September 23 2020 00:04:49 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15
+# Design number was non-random = 11
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1600819490,572bb06a0517907c8cdea66c95735679,Form,1,0,intro,NULL,name,从v
+1600819490,572bb06a0517907c8cdea66c95735679,Form,1,0,intro,NULL,_REACTION_TIME_,4610
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1600819490,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,2,0,q1,NULL,summersplash.mp3
+1600819490,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,2,0,q1,NULL,NULL,OK,NULL,2089
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+1600819490,572bb06a0517907c8cdea66c95735679,Question,2,1,q1,NULL,你听见声音了吗？,听到了,NULL,1356
+1600819490,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,3,0,q2,NULL,dianr.mp3
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1600819490,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,3,0,q2,NULL,NULL,OK,NULL,1128
+1600819490,572bb06a0517907c8cdea66c95735679,Question,3,1,q2,NULL,哪一个回答更自然？,小王拿了花给小美,NULL,1719
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1600819490,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,4,0,q3,NULL,goumai.mp3
+1600819490,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,4,0,q3,NULL,NULL,OK,NULL,1055
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1600819490,572bb06a0517907c8cdea66c95735679,Question,4,1,q3,NULL,刚才播放的句子，你觉得听起来自然吗？,自然,NULL,285496
+#
+# Results on Wednesday September 23 2020 00:05:34 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15
+# Design number was non-random = 12
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1600819534,572bb06a0517907c8cdea66c95735679,Form,1,0,intro,NULL,name,句
+1600819534,572bb06a0517907c8cdea66c95735679,Form,1,0,intro,NULL,_REACTION_TIME_,3547
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1600819534,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,2,0,q1,NULL,summersplash.mp3
+1600819534,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,2,0,q1,NULL,NULL,OK,NULL,911
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+1600819534,572bb06a0517907c8cdea66c95735679,Question,2,1,q1,NULL,你听见声音了吗？,听到了,NULL,1110
+1600819534,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,3,0,q2,NULL,dianr.mp3
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1600819534,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,3,0,q2,NULL,NULL,OK,NULL,924
+1600819534,572bb06a0517907c8cdea66c95735679,Question,3,1,q2,NULL,哪一个回答更自然？,小王拿了花给小美,NULL,1086
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1600819534,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,4,0,q3,NULL,goumai.mp3
+1600819534,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,4,0,q3,NULL,NULL,OK,NULL,901
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1600819534,572bb06a0517907c8cdea66c95735679,Question,4,1,q3,NULL,刚才播放的句子，你觉得听起来自然吗？,自然,NULL,2444
+#
+# Results on Wednesday September 23 2020 00:10:38 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15
+# Design number was non-random = 13
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1600819838,572bb06a0517907c8cdea66c95735679,Form,1,0,intro,NULL,name,b
+1600819838,572bb06a0517907c8cdea66c95735679,Form,1,0,intro,NULL,_REACTION_TIME_,87123
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1600819838,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,2,0,q1,NULL,summersplash.mp3
+1600819838,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,2,0,q1,NULL,NULL,OK,NULL,1497
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+1600819838,572bb06a0517907c8cdea66c95735679,Question,2,1,q1,NULL,你听见声音了吗？,听到了,NULL,1127
+1600819838,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,3,0,q2,NULL,dianr.mp3
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1600819838,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,3,0,q2,NULL,NULL,OK,NULL,1275
+1600819838,572bb06a0517907c8cdea66c95735679,Question,3,1,q2,NULL,哪一个回答更自然？,小王拿了花给小美,NULL,2473
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1600819838,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,4,0,q3,NULL,goumai.mp3
+1600819838,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,4,0,q3,NULL,NULL,OK,NULL,1291
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1600819838,572bb06a0517907c8cdea66c95735679,Question,4,1,q3,NULL,刚才播放的句子，你觉得听起来自然吗？,自然,NULL,1212
+#
+# Results on Wednesday September 23 2020 07:13:12 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15
+# Design number was non-random = 14
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1600845192,572bb06a0517907c8cdea66c95735679,Form,1,0,intro,NULL,name,pdf
+1600845192,572bb06a0517907c8cdea66c95735679,Form,1,0,intro,NULL,_REACTION_TIME_,1818
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1600845192,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,2,0,q1,NULL,summersplash.mp3
+1600845192,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,2,0,q1,NULL,NULL,OK,NULL,1209
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+1600845192,572bb06a0517907c8cdea66c95735679,Question,2,1,q1,NULL,你听见声音了吗？,听到了,NULL,1662
+1600845192,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,3,0,q2,NULL,dianr.mp3
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1600845192,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,3,0,q2,NULL,NULL,OK,NULL,17499
+1600845192,572bb06a0517907c8cdea66c95735679,Question,3,1,q2,NULL,哪一个回答更自然？,小王拿了花给小美,NULL,1220
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1600845192,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,4,0,q3,NULL,goumai.mp3
+1600845192,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,4,0,q3,NULL,NULL,OK,NULL,1017
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1600845192,572bb06a0517907c8cdea66c95735679,Question,4,1,q3,NULL,刚才播放的句子，你觉得听起来自然吗？,自然,NULL,1877
+#
+# Results on Wednesday September 23 2020 07:13:59 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15
+# Design number was non-random = 15
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1600845240,572bb06a0517907c8cdea66c95735679,Form,1,0,intro,NULL,name,史蒂芬
+1600845240,572bb06a0517907c8cdea66c95735679,Form,1,0,intro,NULL,_REACTION_TIME_,2081
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1600845240,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,2,0,q1,NULL,summersplash.mp3
+1600845240,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,2,0,q1,NULL,NULL,OK,NULL,1378
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+1600845240,572bb06a0517907c8cdea66c95735679,Question,2,1,q1,NULL,你听见声音了吗？,听见了,NULL,1244
+1600845240,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,3,0,q2,NULL,dianr.mp3
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1600845240,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,3,0,q2,NULL,NULL,OK,NULL,803
+1600845240,572bb06a0517907c8cdea66c95735679,Question,3,1,q2,NULL,哪一个回答更自然？,小王拿了花给小美,NULL,775
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1600845240,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,4,0,q3,NULL,goumai.mp3
+1600845240,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,4,0,q3,NULL,NULL,OK,NULL,946
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1600845240,572bb06a0517907c8cdea66c95735679,Question,4,1,q3,NULL,刚才播放的句子，你觉得听起来自然吗？,自然,NULL,5829
+#
+# Results on Wednesday September 23 2020 07:19:48 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15
+# Design number was non-random = 16
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1600845588,572bb06a0517907c8cdea66c95735679,Form,1,0,intro,NULL,name,%2Cmn
+1600845588,572bb06a0517907c8cdea66c95735679,Form,1,0,intro,NULL,_REACTION_TIME_,2707
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1600845588,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,2,0,q1,NULL,summersplash.mp3
+1600845588,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,2,0,q1,NULL,NULL,OK,NULL,1619
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+1600845588,572bb06a0517907c8cdea66c95735679,Question,2,1,q1,NULL,你听见声音了吗？,听见了,NULL,1952
+1600845588,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,3,0,q2,NULL,dianr.mp3
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1600845588,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,3,0,q2,NULL,NULL,OK,NULL,869
+1600845588,572bb06a0517907c8cdea66c95735679,Question,3,1,q2,NULL,哪一个回答更自然？,小王拿了花给小美,NULL,1386
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1600845588,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,4,0,q3,NULL,goumai.mp3
+1600845588,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,4,0,q3,NULL,NULL,OK,NULL,1960
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1600845588,572bb06a0517907c8cdea66c95735679,Question,4,1,q3,NULL,刚才播放的句子，你觉得听起来自然吗？,自然,NULL,3059
+#
+# Results on Wednesday September 23 2020 07:25:23 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15
+# Design number was non-random = 17
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1600845923,572bb06a0517907c8cdea66c95735679,Form,1,0,intro,NULL,name,kjb
+1600845923,572bb06a0517907c8cdea66c95735679,Form,1,0,intro,NULL,_REACTION_TIME_,2701
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1600845923,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,2,0,q1,NULL,summersplash.mp3
+1600845923,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,2,0,q1,NULL,NULL,OK,NULL,533
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+1600845923,572bb06a0517907c8cdea66c95735679,Question,2,1,q1,NULL,你听见声音了吗？,听见了,NULL,1250
+1600845923,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,3,0,q2,NULL,dianr.mp3
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1600845923,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,3,0,q2,NULL,NULL,OK,NULL,1088
+1600845923,572bb06a0517907c8cdea66c95735679,Question,3,1,q2,NULL,哪一个回答更自然？,小王拿了花给小美,NULL,3336
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1600845923,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,4,0,q3,NULL,goumai.mp3
+1600845923,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,4,0,q3,NULL,NULL,OK,NULL,1481
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1600845923,572bb06a0517907c8cdea66c95735679,Question,4,1,q3,NULL,刚才播放的句子，你觉得听起来自然吗？,自然,NULL,1240
+#
+# Results on Wednesday September 23 2020 07:27:53 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15
+# Design number was non-random = 18
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1600846074,572bb06a0517907c8cdea66c95735679,Form,1,0,intro,NULL,name,mnb
+1600846074,572bb06a0517907c8cdea66c95735679,Form,1,0,intro,NULL,_REACTION_TIME_,2740
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1600846074,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,2,0,q1,NULL,summersplash.mp3
+1600846074,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,2,0,q1,NULL,NULL,OK,NULL,6581
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+1600846074,572bb06a0517907c8cdea66c95735679,Question,2,1,q1,NULL,你听见声音了吗？,听见了,NULL,1539
+1600846074,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,3,0,q2,NULL,dianr.mp3
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1600846074,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,3,0,q2,NULL,NULL,OK,NULL,1791
+1600846074,572bb06a0517907c8cdea66c95735679,Question,3,1,q2,NULL,哪一个回答更自然？,我知道,NULL,1494
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1600846074,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,4,0,q3,NULL,goumai.mp3
+1600846074,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,4,0,q3,NULL,NULL,OK,NULL,1005
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1600846074,572bb06a0517907c8cdea66c95735679,Question,4,1,q3,NULL,刚才播放的句子，你觉得听起来自然吗？,自然,NULL,2529
+#
+# Results on Wednesday September 23 2020 07:29:33 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15
+# Design number was non-random = 19
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1600846173,572bb06a0517907c8cdea66c95735679,Form,1,0,intro,NULL,name,mnb
+1600846173,572bb06a0517907c8cdea66c95735679,Form,1,0,intro,NULL,_REACTION_TIME_,2297
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1600846173,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,2,0,q1,NULL,summersplash.mp3
+1600846173,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,2,0,q1,NULL,NULL,OK,NULL,1657
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+1600846173,572bb06a0517907c8cdea66c95735679,Question,2,1,q1,NULL,你听见声音了吗？,听见了,NULL,1311
+1600846173,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,3,0,q2,NULL,dianr.mp3
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1600846173,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,3,0,q2,NULL,NULL,OK,NULL,1006
+1600846173,572bb06a0517907c8cdea66c95735679,Question,3,1,q2,NULL,哪一个回答更自然？,小王拿了花给小美,NULL,1122
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1600846173,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,4,0,q3,NULL,goumai.mp3
+1600846173,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,4,0,q3,NULL,NULL,OK,NULL,827
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1600846173,572bb06a0517907c8cdea66c95735679,Question,4,1,q3,NULL,刚才播放的句子，你觉得听起来自然吗？,自然,NULL,1289
+#
+# Results on Wednesday September 23 2020 07:30:49 UTC.
+# USER AGENT: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.2 Safari/605.1.15
+# Design number was non-random = 20
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Field name.
+# 9. Field value.
+1600846249,572bb06a0517907c8cdea66c95735679,Form,1,0,intro,NULL,name,mn
+1600846249,572bb06a0517907c8cdea66c95735679,Form,1,0,intro,NULL,_REACTION_TIME_,2295
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1600846249,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,2,0,q1,NULL,summersplash.mp3
+1600846249,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,2,0,q1,NULL,NULL,OK,NULL,792
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+1600846249,572bb06a0517907c8cdea66c95735679,Question,2,1,q1,NULL,你听见声音了吗？,听见了,NULL,1135
+1600846249,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,3,0,q2,NULL,dianr.mp3
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1600846249,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,3,0,q2,NULL,NULL,OK,NULL,1247
+1600846249,572bb06a0517907c8cdea66c95735679,Question,3,1,q2,NULL,哪一个回答更自然？,小王拿了花给小美,NULL,1644
+# The lines below this comment are in groups of 2.
+# The formats of the lines in each of these groups are as follows:
+#
+# Line 1:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Sentence (or sentence MD5).
+# Line 2:
+#     Col. 1: Time results were received.
+#     Col. 2: MD5 hash of participant's IP address.
+#     Col. 3: Controller name.
+#     Col. 4: Item number.
+#     Col. 5: Element number.
+#     Col. 6: Type.
+#     Col. 7: Group.
+#     Col. 8: Question (NULL if none).
+#     Col. 9: Answer.
+#     Col. 10: Whether or not answer was correct (NULL if N/A).
+#     Col. 11: Time taken to answer.
+1600846249,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,4,0,q3,NULL,goumai.mp3
+1600846249,572bb06a0517907c8cdea66c95735679,AcceptabilityJudgment,4,0,q3,NULL,NULL,OK,NULL,1269
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. Question (NULL if none).
+# 9. Answer.
+# 10. Whether or not answer was correct (NULL if N/A).
+# 11. Time taken to answer.
+1600846249,572bb06a0517907c8cdea66c95735679,Question,4,1,q3,NULL,刚才播放的句子，你觉得听起来自然吗？,自然,NULL,1414
